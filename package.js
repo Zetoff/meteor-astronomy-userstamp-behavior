@@ -2,7 +2,7 @@ Package.describe({
   name: 'zetoff:astronomy-userstamp-behavior',
   version: '1.0.0',
   summary: 'Userstamp behavior for Meteor Astronomy',
-  git: 'https://github.com/jagi/meteor-astronomy-timestamp-behavior.git'
+  git: 'https://github.com/Zetoff/meteor-astronomy-userstamp-behavior'
 });
 
 Package.onUse(function(api) {
