@@ -1,6 +1,6 @@
 Package.describe({
   name: 'zetoff:astronomy-userstamp-behavior',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Userstamp behavior for Meteor Astronomy',
   git: 'https://github.com/Zetoff/meteor-astronomy-userstamp-behavior'
 });
